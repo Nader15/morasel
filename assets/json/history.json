@@ -1,0 +1,436 @@
+[
+    {
+        "translogid": 4916,
+        "corsid": 1835,
+        "fromparticipanttype": 1,
+        "fromemployeeid": 2940,
+        "fromdepartmentid": 3,
+        "instructions": null,
+        "transtype": 2,
+        "transdatetime": "14430811133547",
+        "fromemployeename": "صالح الحيلة",
+        "fromdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+        "transdatetimef": "11/08/1443 13:35:47 م ",
+        "sendTo": [
+            {
+                "translogdetailid": 4906,
+                "transdetailtype": 1,
+                "participantemployeeid": 2980,
+                "participanttype": 2,
+                "participantemployeename": "خالد سلمان حمدان الرحيمي",
+                "participantdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 0
+            }
+        ]
+    },
+    {
+        "translogid": 4660,
+        "corsid": 1835,
+        "fromparticipanttype": 1,
+        "fromemployeeid": 44,
+        "fromdepartmentid": 3,
+        "instructions": null,
+        "transtype": 2,
+        "transdatetime": "14420829131949",
+        "fromemployeename": "مدير النظام",
+        "fromdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+        "transdatetimef": "29/08/1442 13:19:49 م ",
+        "sendTo": [
+            {
+                "translogdetailid": 4650,
+                "transdetailtype": 1,
+                "participantemployeeid": 2940,
+                "participanttype": 1,
+                "participantemployeename": "صالح الحيلة",
+                "participantdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 0
+            }
+        ]
+    },
+    {
+        "translogid": 4659,
+        "corsid": 1835,
+        "fromparticipanttype": 1,
+        "fromemployeeid": 44,
+        "fromdepartmentid": 3,
+        "instructions": null,
+        "transtype": 2,
+        "transdatetime": "14420829131948",
+        "fromemployeename": "مدير النظام",
+        "fromdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+        "transdatetimef": "29/08/1442 13:19:48 م ",
+        "sendTo": [
+            {
+                "translogdetailid": 4649,
+                "transdetailtype": 1,
+                "participantemployeeid": 2940,
+                "participanttype": 3,
+                "participantemployeename": "صالح الحيلة",
+                "participantdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 4916
+            }
+        ]
+    },
+    {
+        "translogid": 4341,
+        "corsid": 1835,
+        "fromparticipanttype": 1,
+        "fromemployeeid": 2580,
+        "fromdepartmentid": 3,
+        "instructions": "الإجراء: الـرد",
+        "transtype": 3,
+        "transdatetime": "14420619114202",
+        "fromemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+        "fromdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+        "transdatetimef": "19/06/1442 11:42:02 ص ",
+        "sendTo": [
+            {
+                "translogdetailid": 4325,
+                "transdetailtype": 1,
+                "participantemployeeid": 2580,
+                "participanttype": 1,
+                "participantemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+                "participantdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 0
+            }
+        ]
+    },
+    {
+        "translogid": 4340,
+        "corsid": 1835,
+        "fromparticipanttype": 1,
+        "fromemployeeid": 2580,
+        "fromdepartmentid": 3,
+        "instructions": null,
+        "transtype": 2,
+        "transdatetime": "14420619114001",
+        "fromemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+        "fromdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+        "transdatetimef": "19/06/1442 11:40:01 ص ",
+        "sendTo": [
+            {
+                "translogdetailid": 4324,
+                "transdetailtype": 1,
+                "participantemployeeid": 44,
+                "participanttype": 1,
+                "participantemployeename": "مدير النظام",
+                "participantdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 4659
+            }
+        ]
+    },
+    {
+        "translogid": 4339,
+        "corsid": 1835,
+        "fromparticipanttype": 1,
+        "fromemployeeid": 2580,
+        "fromdepartmentid": 3,
+        "instructions": "Test",
+        "transtype": 2,
+        "transdatetime": "14420619113211",
+        "fromemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+        "fromdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+        "transdatetimef": "19/06/1442 11:32:11 ص ",
+        "sendTo": [
+            {
+                "translogdetailid": 4323,
+                "transdetailtype": 1,
+                "participantemployeeid": 2580,
+                "participanttype": 1,
+                "participantemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+                "participantdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 4340
+            }
+        ]
+    },
+    {
+        "translogid": 4338,
+        "corsid": 1835,
+        "fromparticipanttype": 1,
+        "fromemployeeid": 2580,
+        "fromdepartmentid": 3,
+        "instructions": "Test",
+        "transtype": 2,
+        "transdatetime": "14420619112639",
+        "fromemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+        "fromdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+        "transdatetimef": "19/06/1442 11:26:39 ص ",
+        "sendTo": [
+            {
+                "translogdetailid": 4322,
+                "transdetailtype": 1,
+                "participantemployeeid": 2580,
+                "participanttype": 1,
+                "participantemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+                "participantdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 4339
+            }
+        ]
+    },
+    {
+        "translogid": 4336,
+        "corsid": 1835,
+        "fromparticipanttype": 1,
+        "fromemployeeid": 2580,
+        "fromdepartmentid": 3,
+        "instructions": "Test",
+        "transtype": 2,
+        "transdatetime": "14420619104728",
+        "fromemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+        "fromdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+        "transdatetimef": "19/06/1442 10:47:28 ص ",
+        "sendTo": [
+            {
+                "translogdetailid": 4320,
+                "transdetailtype": 1,
+                "participantemployeeid": 2580,
+                "participanttype": 1,
+                "participantemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+                "participantdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 4338
+            }
+        ]
+    },
+    {
+        "translogid": 4335,
+        "corsid": 1835,
+        "fromparticipanttype": 1,
+        "fromemployeeid": 2580,
+        "fromdepartmentid": 3,
+        "instructions": "Test",
+        "transtype": 2,
+        "transdatetime": "14420619100913",
+        "fromemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+        "fromdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+        "transdatetimef": "19/06/1442 10:09:13 ص ",
+        "sendTo": [
+            {
+                "translogdetailid": 4319,
+                "transdetailtype": 1,
+                "participantemployeeid": 2580,
+                "participanttype": 1,
+                "participantemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+                "participantdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 4336
+            }
+        ]
+    },
+    {
+        "translogid": 4334,
+        "corsid": 1835,
+        "fromparticipanttype": 1,
+        "fromemployeeid": 2580,
+        "fromdepartmentid": 3,
+        "instructions": "Test",
+        "transtype": 2,
+        "transdatetime": "14420619100005",
+        "fromemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+        "fromdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+        "transdatetimef": "19/06/1442 10:00:05 ص ",
+        "sendTo": [
+            {
+                "translogdetailid": 4318,
+                "transdetailtype": 1,
+                "participantemployeeid": 2580,
+                "participanttype": 1,
+                "participantemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+                "participantdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 4335
+            }
+        ]
+    },
+    {
+        "translogid": 4333,
+        "corsid": 1835,
+        "fromparticipanttype": 1,
+        "fromemployeeid": 2580,
+        "fromdepartmentid": 3,
+        "instructions": "test",
+        "transtype": 2,
+        "transdatetime": "14420619094446",
+        "fromemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+        "fromdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+        "transdatetimef": "19/06/1442 09:44:46 ص ",
+        "sendTo": [
+            {
+                "translogdetailid": 4317,
+                "transdetailtype": 1,
+                "participantemployeeid": 2580,
+                "participanttype": 1,
+                "participantemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+                "participantdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 4334
+            }
+        ]
+    },
+    {
+        "translogid": 4332,
+        "corsid": 1835,
+        "fromparticipanttype": 1,
+        "fromemployeeid": 2580,
+        "fromdepartmentid": 3,
+        "instructions": "test",
+        "transtype": 2,
+        "transdatetime": "14420619090624",
+        "fromemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+        "fromdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+        "transdatetimef": "19/06/1442 09:06:24 ص ",
+        "sendTo": [
+            {
+                "translogdetailid": 4314,
+                "transdetailtype": 1,
+                "participantemployeeid": 2580,
+                "participanttype": 1,
+                "participantemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+                "participantdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 4333
+            },
+            {
+                "translogdetailid": 4315,
+                "transdetailtype": 1,
+                "participantemployeeid": 44,
+                "participanttype": 1,
+                "participantemployeename": "مدير النظام",
+                "participantdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 4660
+            },
+            {
+                "translogdetailid": 4316,
+                "transdetailtype": 2,
+                "participantemployeeid": 600,
+                "participanttype": 2,
+                "participantemployeename": "معن محمد صالح الفريح",
+                "participantdepartmentname": "المدير التنفيذي للجمعية العلمية السعودية للدراسات الطبية الفقهية",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 0
+            }
+        ]
+    },
+    {
+        "translogid": 4331,
+        "corsid": 1835,
+        "fromparticipanttype": 1,
+        "fromemployeeid": 2580,
+        "fromdepartmentid": 3,
+        "instructions": "Test",
+        "transtype": 2,
+        "transdatetime": "14420619085247",
+        "fromemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+        "fromdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+        "transdatetimef": "19/06/1442 08:52:47 ص ",
+        "sendTo": [
+            {
+                "translogdetailid": 4313,
+                "transdetailtype": 1,
+                "participantemployeeid": 2580,
+                "participanttype": 1,
+                "participantemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+                "participantdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 4332
+            }
+        ]
+    },
+    {
+        "translogid": 4330,
+        "corsid": 1835,
+        "fromparticipanttype": 1,
+        "fromemployeeid": 2580,
+        "fromdepartmentid": 3,
+        "instructions": "الإجراء: الـرد",
+        "transtype": 3,
+        "transdatetime": "14420618144059",
+        "fromemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+        "fromdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+        "transdatetimef": "18/06/1442 14:40:59 م ",
+        "sendTo": [
+            {
+                "translogdetailid": 4312,
+                "transdetailtype": 1,
+                "participantemployeeid": 2580,
+                "participanttype": 1,
+                "participantemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+                "participantdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 4341
+            }
+        ]
+    },
+    {
+        "translogid": 4329,
+        "corsid": 1835,
+        "fromparticipanttype": 1,
+        "fromemployeeid": 2580,
+        "fromdepartmentid": 3,
+        "instructions": "ok",
+        "transtype": 2,
+        "transdatetime": "14420618144007",
+        "fromemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+        "fromdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+        "transdatetimef": "18/06/1442 14:40:07 م ",
+        "sendTo": []
+    },
+    {
+        "translogid": 4328,
+        "corsid": 1835,
+        "fromparticipanttype": 1,
+        "fromemployeeid": 2580,
+        "fromdepartmentid": 3,
+        "instructions": "wgjshdhd",
+        "transtype": 2,
+        "transdatetime": "14420618143919",
+        "fromemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+        "fromdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+        "transdatetimef": "18/06/1442 14:39:19 م ",
+        "sendTo": [
+            {
+                "translogdetailid": 4311,
+                "transdetailtype": 1,
+                "participantemployeeid": 2580,
+                "participanttype": 1,
+                "participantemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+                "participantdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 4330
+            }
+        ]
+    },
+    {
+        "translogid": 3999,
+        "corsid": 1835,
+        "fromparticipanttype": 1,
+        "fromemployeeid": 2580,
+        "fromdepartmentid": 3,
+        "instructions": null,
+        "transtype": 1,
+        "transdatetime": "14411201093448",
+        "fromemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+        "fromdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+        "transdatetimef": "01/12/1441 09:34:48 ص ",
+        "sendTo": [
+            {
+                "translogdetailid": 3929,
+                "transdetailtype": 1,
+                "participantemployeeid": 2580,
+                "participanttype": 1,
+                "participantemployeename": "عبدالرحيم بسام عبدالرحيم نمر",
+                "participantdepartmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+                "deadlinestatus": "DEADLINE_STATUS_NON",
+                "completetranslogid": 4328
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "employeeid": 2980,
+        "idno": 2980,
+        "fullname": "خالد سلمان حمدان الرحيمي",
+        "username": "ksalruhaymi",
+        "department": {
+            "departmentid": 3,
+            "departmentcode": "3",
+            "departmentname": "ادارة التطبيقات بعمادة تقنية المعلومات",
+            "departmentlevel": 3,
+            "active": true,
+            "queuename": null,
+            "queuedesc": null,
+            "parentdepartmentid": 550,
+            "manageremployeeid": 611,
+            "hidden": 0
+        },
+        "title": null,
+        "active": true,
+        "permissionsmask": 2162735,
+        "prefrencesmask": 0,
+        "forwardtolisttype": 1,
+        "mobile": null
+    }
+]
+

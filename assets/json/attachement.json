@@ -1,0 +1,50 @@
+[
+    {
+        "objectid": "{204EF673-0000-CE1B-9A1C-A59FE6AC4BC3}",
+        "corsid": 1835,
+        "corsno": 43,
+        "corstype": 3,
+        "hijricyear": 1441,
+        "subject": "التوجيه: التا",
+        "mimetype": "application/pdf",
+        "hijridatecreated": "1441/12/26",
+        "filenetcreateddate": "2020-08-16",
+        "creator": "عبدالرحيم بسام عبدالرحيم نمر"
+    },
+    {
+        "objectid": "{F03A7573-0000-CF1E-BF52-EA2942EFC93D}",
+        "corsid": 1835,
+        "corsno": 43,
+        "corstype": 3,
+        "hijricyear": 1441,
+        "subject": "التوجيه: قثغعثغفعت",
+        "mimetype": "application/pdf",
+        "hijridatecreated": "1441/12/01",
+        "filenetcreateddate": "2020-07-22",
+        "creator": "عبدالرحيم بسام عبدالرحيم نمر"
+    },
+    {
+        "objectid": "{203B7573-0000-C76A-BD5B-EE24DE7F0BB3}",
+        "corsid": 1835,
+        "corsno": 43,
+        "corstype": 3,
+        "hijricyear": 1441,
+        "subject": "التا",
+        "mimetype": "application/pdf",
+        "hijridatecreated": "1441/12/01",
+        "filenetcreateddate": "2020-07-22",
+        "creator": "عبدالرحيم بسام عبدالرحيم نمر"
+    },
+    {
+        "objectid": "{D03A7573-0000-CB1A-BFB3-ED077A5E301E}",
+        "corsid": 1835,
+        "corsno": 43,
+        "corstype": 3,
+        "hijricyear": 1441,
+        "subject": "قثغعثغفعت",
+        "mimetype": "application/pdf",
+        "hijridatecreated": "1441/12/01",
+        "filenetcreateddate": "2020-07-22",
+        "creator": "عبدالرحيم بسام عبدالرحيم نمر"
+    }
+]
